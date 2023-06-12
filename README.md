@@ -1,2 +1,3 @@
 # Hello
-# This is the repository for keeping the Assigment notebook documents
+# This is the final project of Python Project for Data Science.
+# Thank you for the review.
